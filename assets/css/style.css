@@ -1,0 +1,182 @@
+body{
+    background-color:rgba(116, 26, 26, 0.815);
+    background-size: cover;
+    margin: 0px;
+}
+
+.full{
+    margin: auto;
+    margin-top: 0px;
+    background-color: #ffffff;
+    width: auto;
+    height: 50px;
+    border-bottom: solid;
+    border-bottom-color: #0e0000;
+}
+.submit, .first{
+    background-color: #4aaaa5;
+    margin-left: 320px;
+    float: left;
+    width: 200px;
+    height: 50px;
+}
+h4, #mh{
+    float: left;
+    margin: 12px 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+}
+.about, .port, .contact, .part{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    float: right;
+    font-size: 20px;
+}
+.contact{
+    margin: 14px 150px 14px 20px;
+}
+.about, .port, .part{
+    margin: 14px 20px;
+}
+.mcontent{
+    margin: 20px auto;
+    clear: both;
+    width: 960px;
+    height: 550px;
+    background-color: #ffffff;
+    border: solid #dddddd;
+}
+a{
+    text-decoration: none;
+    padding: 5px 10px;
+    color:  #777777;
+}
+a:hover{
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+.main_heading{
+    color: #4aaaa5;
+    margin: 20px 250px 20px 20px;
+}
+hr{
+    margin: 20px 20px 10px 20px;
+    clear: both;
+    color: #cccccc;
+}
+.p1, .p2, .p3, .p4, .p5, img{
+    z-index: 5;
+    float: left;
+    width: 280px;
+    height: 250px;
+    margin: 20px;
+}
+.para{
+    float: left;
+}
+p{
+    margin: 20px 20px;
+    color: #000000;
+    line-height: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 30px;
+    background-color: #777777;
+    color: #ffffff;
+    font-size: 19px;
+    text-align: center;
+    padding-top: 28px;
+    border-top: 5px solid #4aaaa5;
+}
+/* contact page */
+.name{
+    margin: 10px 20px 5px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    font-size: 15px;
+}
+input{
+    margin: 0px 20px 5px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    font-size: 11px;
+    width: 94%;
+    padding: 5px;
+}
+.msg{
+    clear: both;
+    height:100px;
+    width: 900px;
+    margin: 0px 20px 5px 20px;
+}
+.submit{
+    clear: both;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 150px;
+} 
+h4{
+    clear: both;
+    margin: 17px 46px;
+}
+/* portfolio page */
+.upper{
+    margin-top: 80px;
+    background-color: #4aaaa5;
+    width: 250px;
+    height: 50px;
+    z-index: 20;
+}
+.pf1{
+    float: left;
+    background-image: url(../images/abstract-attractive-backdrop-988872.jpg);
+    background-size: cover;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
+}
+.pf2{
+    float: left;
+    background-image: url(../images/adventure-alps-background-547114.jpg);
+    background-size: cover;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
+}
+.pf3{
+    float: left;
+    background-image: url(../images/background-balance-business-583846.jpg);;
+    background-size: cover;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
+}
+.pf4{  
+    clear: both;  
+    float: left;
+    background-image: url(../images/background-beverage-breakfast-414645.jpg);;
+    background-size: cover;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
+}
+.pf5{
+
+    float: left;
+    background-image: url(../images/action-background-blur-269561.jpg);
+    background-size: cover;
+    margin: 20px 20px 10px 20px;
+    width: 250px;
+    height: 150px;
+}
+.pn{
+    color: #ffffff;
+    text-align: center;
+    padding: 12px 0px;    
+}
